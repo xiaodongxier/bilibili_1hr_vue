@@ -1,9 +1,24 @@
 # bilibili_1hr_vue
 
-吴悠讲编程_一小时学会Vue
+## Project setup
+```
+yarn install
+```
 
-## 初始化项目
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-```  
-vue create my-project
-```  
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
